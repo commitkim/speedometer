@@ -9,9 +9,7 @@
 - 화면 켜짐 유지하는 설정 메뉴 추가 (원한면 더 많은 설정 추가)
 - 결과물: repo 주소, 마켓 주소
 
-<img src = "https://user-images.githubusercontent.com/65940401/162799370-5aff8329-8188-4ba0-b9e9-70b878110445.png" width="20%" height="20%">
-<img src = "https://user-images.githubusercontent.com/65940401/162799510-243a8ae6-2475-4a11-b2d6-1a6b97d0e7ab.png" width="20%" height="20%">
-
+<img src = "https://user-images.githubusercontent.com/65940401/162799370-5aff8329-8188-4ba0-b9e9-70b878110445.png" width="30%" height="30%"> <img src = "https://user-images.githubusercontent.com/65940401/162799510-243a8ae6-2475-4a11-b2d6-1a6b97d0e7ab.png" width="30%" height="30%">
 
 ## Structure
 
